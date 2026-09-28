@@ -1,1 +1,19 @@
 @import "tailwindcss";
+
+@theme {
+  --color-blue: #003BE2;
+  --color-lime: #D4FB20;
+  --color-lime-500: #CBFC01;
+  --color-violet: #7F30F7;
+
+  --color-gray-950: #242528;
+  --color-gray-700: #4B4C53;
+  --color-gray-400: #82868E;
+  --color-gray-200: #CED0D3;
+  --color-gray-50: #F5F5F6;
+  --color-vulcan: #040819;
+
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Satoshi', sans-serif;
+  --font-logo: 'Clash Display', sans-serif;
+}
