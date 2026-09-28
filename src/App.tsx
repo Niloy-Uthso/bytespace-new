@@ -12,9 +12,7 @@ function App() {
      
       <div className="ticks"></div>
 
-      
-
-     slkdfjs
+     sorry 
       <section id="spacer"></section>
     </>
   )
